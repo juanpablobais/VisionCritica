@@ -1,0 +1,90 @@
+*{
+    font-family: 'Roboto', sans-serif;
+}
+
+body{
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    background-color: #011524;
+}
+
+#image-row img {
+    cursor: pointer;
+    border-radius: 3px;
+}
+#image-row img:hover {
+    opacity: 0.5; /* Cambia la opacidad al 70% al hacer hover */
+    transition: opacity 0.3s; /* Agrega una transición suave de 0.3 segundos */
+}
+
+.navbar-toggler{
+    background-color: #011524;
+}
+
+.navbar-toggler:hover{
+    background-color: #B82601;
+}
+
+.custom-navbar {
+    background-color: #062F4F;
+}
+
+.nav-link {
+    color: #B82601 !important;
+}
+
+.nav-link:hover {
+    color: white !important;
+}
+
+/* Centrar el brand en la barra de navegación */
+.navbar .navbar-brand {
+    margin: 0 auto; /* Esto centrará el brand horizontalmente */
+}
+
+.navbar-nav {
+    text-align: right; /* Esto centrará los elementos de navegación en dispositivos móviles */
+}
+
+footer{
+    margin-top: auto;
+}
+
+.custom-footer {
+    background-color: #062F4F; /* Cambia este valor al color de fondo deseado */
+}
+.custom-footer p{
+    color: #ff3300;
+    text-align: left;
+}
+
+.social-icons{
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+}
+
+.social-icons a{
+    color: #B82601;
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+}
+
+.social-icons i{
+    margin-right: 10px;
+    font-size: 25px;
+    padding: 10px;
+}
+
+.social-icons a:hover{
+    color: white;
+}
+
+/* Centrar los elementos de navegación cuando se muestra el menú desplegable */
+@media (max-width: 768px) {
+    .navbar-nav {
+        text-align: center; /* Esto centrará los elementos de navegación en dispositivos móviles */
+    }
+}

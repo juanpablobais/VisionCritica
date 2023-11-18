@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Visión Crítica</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="scriptmovies.js"></script>
+    <script src="scriptmusic.js"></script>
+    <link rel="stylesheet" href="index.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400&display=swap" rel="stylesheet">
+    <script src="https://kit.fontawesome.com/4bf4a00ffc.js" crossorigin="anonymous"></script>
+</head>
+<body>
+    
+<!-- Header con enlaces -->
+<header>
+    <nav class="navbar navbar-light custom-navbar">
+        <a href="/index.html">
+            <img src="/logo-visioncritica.png" alt="Descripción de la imagen">
+        </a>        
+        <button class="navbar-toggler navbar-dark" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav ml-auto">
+                <li class="nav-item active">
+                    <a class="nav-link" href="/index.html">Inicio</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="./movies/movies.html">Reviews Películas</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/music/music.html">Reviews Música</a>
+                </li>
+            </ul>
+        </div>
+    </nav>
+</header>
+
+<!-- Sección de Reviews -->
+<section class="container my-5">
+    <h1 class="text-center">Últimas reviews a películas:</h1>
+    <div class="row" id="movies-container">
+        <!-- Aquí se cargarán las reviews dinámicamente desde JavaScript -->
+    </div>
+</section>
+
+<section class="container my-5">
+    <h1 class="text-center">Últimas reviews a música:</h1>
+    <div class="row" id="music-container">
+        <!-- Aquí se cargarán las reviews dinámicamente desde JavaScript -->
+    </div>
+</section>
+
+<div class="modal fade" id="reviewModal" tabindex="-1" role="dialog" aria-labelledby="reviewModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="reviewModalLabel">Review Completa</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Cerrar">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body" id="reviewContent">
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Footer con redes sociales -->
+<footer class="text-white text-center py-3 custom-footer">
+    <div class="container d-flex justify-content-between align-items-center">
+        <div>
+            <p> Esta es una web estilo blog personal en el que se postean críticas a cosas que consumo en mi tiempo de ocio.<br><br><br>
+                
+                &copy; 2023 Visión Crítica. Todos los derechos reservados.
+            </p>
+        </div>
+        <div class="social-icons">
+            <!-- Agrega aquí tus íconos de redes sociales con enlaces -->
+            <a href="/" class="social-icon"><i class="fa-solid fa-book" style="color: #ffffff;"></i>Portfolio</a>
+            <a href="https://github.com/juanpablobais" target="_blank" class="social-icon"><i class="fa-brands fa-square-github" style="color: #ffffff;"></i>GitHub</a>
+            <a href="https://www.instagram.com/j.uanpablo/" target="_blank" class="social-icon"><i class="fa-brands fa-instagram" style="color: #ffffff;"></i>Instagram</a>
+        </div>
+    </div>
+</footer>
+
+
+<!-- Incluye las bibliotecas de Bootstrap y jQuery, y tu script.js aquí -->
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+</body>
+</html>

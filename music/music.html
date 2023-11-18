@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Visión Crítica - Música</title>
+    <!-- Agrega la referencia a Bootstrap CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.2/dist/js/bootstrap.bundle.min.js"></script>
+    <link rel="stylesheet" href="musictooltip.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400&display=swap" rel="stylesheet">
+    <script src="https://kit.fontawesome.com/4bf4a00ffc.js" crossorigin="anonymous"></script>
+</head>
+<body>
+
+<!-- Header con enlaces -->
+<header>
+    <nav class="navbar navbar-light custom-navbar">
+        <a href="/index.html">
+            <img src="/logo-visioncritica.png" alt="Descripción de la imagen">
+        </a>    
+        <button class="navbar-toggler navbar-dark" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav ml-auto">
+                <li class="nav-item active">
+                    <a class="nav-link" href="/index.html">Inicio</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/movies/movies.html">Reviews Películas</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/music/music.html">Reviews Música</a>
+                </li>
+            </ul>
+        </div>
+    </nav>
+</header>
+<div class="container-fluid">
+    <div class="row">
+        <!-- Contenedor de reseñas (columna principal) -->
+        <div class="col-lg-9 mt-3" id="image-container">
+            
+
+            <div class="row" id="image-row">
+                <!-- Aquí se mostrarán las reseñas -->
+            </div>
+        </div>
+
+        <div class="col-lg-3 mt-3">
+            <!-- Contenido para la columna derecha -->
+            <!-- Puedes agregar cualquier contenido adicional aquí -->
+            <!-- Botón para abrir el modal de filtrado -->
+            <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#filterModal" id="filterButton">
+                Filtrar
+            </button>
+
+            <!-- Modal de filtrado -->
+            <div class="modal fade" id="filterModal" tabindex="-1" role="dialog" aria-labelledby="filterModalLabel" aria-hidden="true">
+                <div class="modal-dialog" role="document">
+                    <div class="modal-content">
+                        <div class="modal-header">
+                            <h5 class="modal-title" id="filterModalLabel">Opciones de Filtrado</h5>
+                            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                <span aria-hidden="true">&times;</span>
+                            </button>
+                        </div>
+                        <div class="modal-body">
+                            <p>Selecciona una opción de filtrado:</p>
+                            <button type="button" class="btn btn-secondary mb-2" data-dismiss="modal" id="newest">Más Nuevas</button>
+                            <button type="button" class="btn btn-secondary mb-2" data-dismiss="modal" id="oldest">Más Viejas</button>
+                            <button type="button" class="btn btn-secondary mb-2" data-dismiss="modal" id="highestRating">Mayor Puntuación</button>
+                            <button type="button" class="btn btn-secondary mb-2" data-dismiss="modal" id="lowestRating">Menor Puntuación</button>
+                            <button type="button" class="btn btn-secondary mb-2" data-dismiss="modal" id="alphabetical">Orden Alfabético</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- Por ejemplo, widgets, anuncios, información adicional, etc. -->
+        </div>
+    </div>
+</div>
+
+<!-- Modal -->
+<div class="modal fade" id="reviewModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-lg" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="modalTitle"></h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <div class="text-center">
+                    <img id="modalImage" src="" alt="" style="max-width: 100%;">
+                </div>
+                <p><strong>Artista:</strong> <span id="modalAuthor"></span></p>
+                <p><strong>Fecha de la reseña:</strong> <span id="modalDate"></span></p>
+                <p><strong>Reseña:</strong></p>
+                <p id="modalContent"></p>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Footer con redes sociales -->
+<footer class="text-white text-center py-3 custom-footer">
+    <div class="container d-flex justify-content-between align-items-center">
+        <div>
+            <p> Esta es una web estilo blog personal en el que se postean críticas a cosas que consumo en mi tiempo de ocio.<br><br><br>
+                
+                &copy; 2023 Visión Crítica. Todos los derechos reservados.
+            </p>
+        </div>
+        <div class="social-icons">
+            <!-- Agrega aquí tus íconos de redes sociales con enlaces -->
+            <a href="#" class="social-icon"><i class="fa-solid fa-book" style="color: #ffffff;"></i>Portfolio</a>
+            <a href="#" class="social-icon"><i class="fa-brands fa-square-github" style="color: #ffffff;"></i>GitHub</a>
+            <a href="#" class="social-icon"><i class="fa-brands fa-instagram" style="color: #ffffff;"></i>Instagram</a>
+        </div>
+    </div>
+</footer>
+
+<script src="/music/music.js"></script>
+</body>
+</html>

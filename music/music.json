@@ -1,0 +1,33 @@
+[
+    {
+      "id": 1,
+      "title": "13 - Black Sabbath",
+      "preview": "Esta es una vista previa de la reseña 1...",
+      "content": "Este es el contenido completo de la reseña 1...",
+      "date": "2023-05-15",
+      "author": "Black Sabbath",
+      "rating": 9.5,
+      "image": "https://contentv2.tap-commerce.com/cover/large/602537349579_1.jpg?id_com=1156"
+    },
+    {
+      "id": 2,
+      "title": "Paranoid - Black Sabbath",
+      "preview": "Esta es una vista previa de la reseña 2...",
+      "content": "Este es el contenido completo de la reseña 2...",
+      "date": "2023-10-14",
+      "author": "Nombre del Autor 2",
+      "rating": "10",
+      "image": "https://contentv2.tap-commerce.com/cover/large/081227946708_1.jpg?id_com=1156"
+    },
+    {
+      "id": 3,
+      "title": "Vulgar Display of Power - Pantera",
+      "preview": "Esta es una vista previa de la reseña 3...",
+      "content": "Este es el contenido completo de la reseña 3...",
+      "date": "2023-10-13",
+      "author": "Nombre del Autor 3",
+      "rating": "9",
+      "image":"https://cdns-images.dzcdn.net/images/cover/ba6c7c231c21930465a4f51a41e3d5a5/500x500.jpg"
+    }
+  ]
+  

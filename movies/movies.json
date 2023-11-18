@@ -1,0 +1,423 @@
+[
+  {
+    "id": 1,
+    "title": "Twelve Monkeys (1995)",
+    "content": "La trama de viajes en el tiempo es increíble. \nLas actuaciones de Brad Pitt y Bruce Willis son alucinantes. \nLa complejidad de la narrativa puede resultar confusa y dificultar la plena comprensión de algunos eventos clave, lo que puede dejar a ciertos espectadores sintiéndose un tanto desconcertados. \nAún así es una película que te mantiene enganchado de principio a fin, con emociones, giros inesperados y un final que queda a la interpretación de uno mismo.",
+    "date": "2023-07-27",
+    "author": "Terry Gilliam",
+    "rating": 4,
+    "image":"https://m.media-amazon.com/images/M/MV5BN2Y2OWU4MWMtNmIyMy00YzMyLWI0Y2ItMTcyZDc3MTdmZDU4XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Nosferatu (1922)",
+    "content": "Drama, suspenso, estética, lirismo y un personaje que se volvió un icono. \nMe encanta cómo la música expresa los sentimientos de los personajes. \nSin duda, una película maravillosa que hoy, a 101 años de su estreno, aún infunde terror. \nLa genialidad es atemporal.",
+    "date": "2023-07-28",
+    "author": "F. W. Murnau",
+    "rating": 5,
+    "image":"https://m.media-amazon.com/images/M/MV5BMTAxYjEyMTctZTg3Ni00MGZmLWIxMmMtOGM2NTFiY2U3MmExXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Dracula (1931)",
+    "content": "Una maravilla del cine de terror. \nEl trabajo de Bela Lugosi es tan bueno que hoy en día se convirtió en el estándar en las interpretaciones de Drácula. \nLa ambientación lúgubre y la atmósfera gótica sumergen al espectador. Sin embargo, hay detalles que pueden restarle impacto a la experiencia, como algunas dudosas actuaciones de personajes secundarios o el ritmo lento de la película.",
+    "date": "2023-07-28",
+    "author": "Tod Browning",
+    "rating": 5,
+    "image":"https://i.etsystatic.com/6824854/r/il/2f0ad7/3050849897/il_fullxfull.3050849897_10o2.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Dracula (1958)",
+    "content": "Trama muy apegada a la novela que te mantiene enganchado hasta el final. \nLa atmósfera es bastante creepy y las actuaciones están muy bien. Sobre todo Christopher Lee como Drácula con su mirada hipnotizante 👀 \nUna joyita del cine de terror clásico.",
+    "date": "2023-07-31",
+    "author": "Terence Fisher",
+    "rating": 4.5,
+    "image":"https://m.media-amazon.com/images/M/MV5BMDhmYjgyMmEtYjMzNS00MmM5LTkxY2QtMzY0ODFjODEyMWFmXkEyXkFqcGdeQXVyMzg1ODEwNQ@@._V1_.jpg"
+  },
+  {
+    "id": 5,
+    "title": "Dracula: Prince of Darkness (1966)",
+    "content": "Christopher Lee como siempre otorgando su presencia imponente y aterradora como Drácula. \nEn sí, la trama es bastante predecible. \nSe van notando las mejoras cinematográficas al pasar los años.",
+    "date": "2023-08-05",
+    "author": "Terence Fisher",
+    "rating": 3.5,
+    "image":"https://m.media-amazon.com/images/M/MV5BNDc3MDJhNTktZjc5Zi00ZjBkLWEwNTItMWU3ODU3YTBjNzFiXkEyXkFqcGdeQXVyNjcwMzExMzU@._V1_FMjpg_UX1000_.jpg"
+  },
+  {
+    "id": 6,
+    "title": "Third Person (2013)",
+    "content": "A pesar de los huecos narrativos, los actores le dan vida a los personajes de una manera excepcional. Muy buen cast. \nLa película se pone densa y la forma de unir a los personajes mediante la pérdida de seres queridos fracasa por ser tan forzosa y exagerada. \nEl recurso de que los personajes terminen siendo parte de una ficción dentro de la misma película no logra sorprender, más bien decepcionar. \nEl soundtrack de la película está muy bien.",
+    "date": "2023-08-08",
+    "author": "Paul Haggis",
+    "rating": 2,
+    "image":"https://image.tmdb.org/t/p/original/k6F3yYVyYmD4odPB9xsn0hm3l4z.jpg"
+  },
+  {
+    "id": 7,
+    "title": "Dracula Has Risen from the Grave (1968)",
+    "content": "La trama es bastante decepcionante ya que carece de originalidad y profundidad. \nLas actuaciones en general son bastante insulsas, exceptuando a Christopher Lee, obviamente. \nLa ambientación gótica está muy bien, pero no alcanza a remarcar lo que resta la trama.",
+    "date": "2023-08-24",
+    "author": "Freddie Francis",
+    "rating": 2,
+    "image":"https://m.media-amazon.com/images/M/MV5BNzRhYTQ1MWEtNDJlYi00YzBmLWEyNDUtNDUwYjYzY2Y1ZmI1XkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_.jpg"
+  },
+  {
+    "id": 8,
+    "title": "Before Sunrise (1995)",
+    "content": "Elegí esta película aleatoriamente y tengo dos cosas a destacar: \nLa primera es que los yanquis nunca aprenden idiomas y la segunda es que la actriz se parece demasiado a mi ex novia. \n*suena Still loving you de Scorpions*",
+    "date": "2023-09-05",
+    "author": "Richard Linklater",
+    "rating": 4.5,
+    "image":"https://cdn.posteritati.com/posters/000/000/063/848/before-sunrise-md-web.jpg"
+  },
+  {
+    "id": 9,
+    "title": "In a Lonely Place (1950)",
+    "content": "\"In a Lonely Place\", dirigida por Nicholas Ray en 1950, se erige como un clásico del cine noir que va más allá de los confines del género para explorar la psicología humana y las complejidades de las relaciones. Esta película, a menudo pasada por alto, se revela como una obra maestra de suspenso y drama, impulsada por la actuación magistral de Humphrey Bogart.\n\nLa historia sigue a Dixon Steele (interpretado por Bogart), un guionista de Hollywood con un temperamento volátil y oscuro. Cuando Steele se convierte en el principal sospechoso de un asesinato, la película se convierte en un intrincado juego de intrigas y giros psicológicos. Lo que podría haber sido simplemente un misterio se transforma en un estudio fascinante sobre la naturaleza humana y la soledad emocional.\n\nLa química entre Bogart y Gloria Grahame, quien interpreta a Laurel Gray, agrega capas de complejidad a la trama. La relación entre los dos personajes es intensa y tumultuosa, añadiendo una dimensión emocional que va más allá de los típicos clichés del género noir.\n\nLa dirección de Nicholas Ray es magistral, capturando la esencia del Hollywood de la posguerra mientras teje una narrativa que mantiene al espectador en vilo hasta el último fotograma. La cinematografía en blanco y negro contribuye a la atmósfera sombría y melancólica, reflejando perfectamente el estado de ánimo de los personajes.\n\nLa música, compuesta por George Antheil, complementa la narrativa con una partitura que oscila entre la melancolía y la tensión, intensificando los momentos clave de la trama. Cada elemento técnico se une para crear una experiencia cinematográfica única que perdura mucho después de que terminan los créditos.\n\nAunque \"In a Lonely Place\" puede no tener el reconocimiento masivo de algunas películas contemporáneas, su impacto en el cine noir y su exploración profunda de la psique humana lo elevan a un estatus de culto. Es una obra maestra que desentraña las capas de la soledad y la oscuridad, recordándonos que el cine puede ser tanto entretenimiento como una ventana a la complejidad de la existencia humana. Con su narrativa inolvidable y sus actuaciones excepcionales, esta película sigue siendo un tesoro cinematográfico que merece ser redescubierto.",
+    "date": "2023-09-06",
+    "author": "Nicholas Ray",
+    "rating": 5,
+    "image":"https://m.media-amazon.com/images/M/MV5BNjRmZjcwZTQtYWY0ZS00ODAwLTg4YTktZDhlZDMwMTM1MGFkXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_.jpg"
+  },
+  {
+    "id": 10,
+    "title": "Casablanca (1942)",
+    "content": "\"Casablanca\", dirigida por Michael Curtiz en 1942, es mucho más que una película; es un icono del cine clásico que ha resistido la prueba del tiempo. Este drama romántico ambientado en la tumultuosa época de la Segunda Guerra Mundial es un testimonio del poder duradero de una narrativa bien tejida y actuaciones excepcionales.\n\nLa trama se desarrolla en la ciudad titular, un nido de intrigas y refugiados durante la guerra. Rick Blaine, interpretado por Humphrey Bogart, regenta un café que se convierte en el escenario de una serie de eventos que cambiarán las vidas de aquellos que lo frecuentan. La llegada de Ilsa Lund (Ingrid Bergman), el interés romántico de Rick, desencadena una serie de eventos que exploran el sacrificio, la lealtad y las decisiones difíciles en tiempos de conflicto.\n\nLa química entre Bogart e Bergman es palpable y sigue siendo un estándar por el cual se miden las historias de amor en el cine. Su romance, entretejido con las complejidades de la guerra, se convierte en el corazón emocional de la película. La actuación de Bogart como el cínico pero noble Rick es una joya de la actuación clásica, mientras que Bergman aporta gracia y vulnerabilidad a su papel.\n\nLa dirección magistral de Michael Curtiz contribuye al aura nostálgica de la película, capturando la atmósfera única de Casablanca y la tensión de la guerra. Cada fotograma está impregnado de simbolismo y emoción, respaldado por la inolvidable partitura de Max Steiner, que ha llegado a ser reconocida como una de las mejores en la historia del cine.\n\n\"Casablanca\" es una obra maestra que va más allá de ser solo una película; es un reflejo de la condición humana y la complejidad de las relaciones en tiempos difíciles. Sus líneas de diálogo han quedado grabadas en la cultura popular, y su legado sigue vivo década tras década.\n\nEn resumen, \"Casablanca\" es un clásico intemporal que resuena con pasión y emoción. Su impacto va más allá de la pantalla, y su historia universal de amor y sacrificio continúa cautivando a las generaciones. Una experiencia cinematográfica que solo mejora con el tiempo, asegurando su lugar en la historia del cine como una de las obras maestras más queridas de todos los tiempos.",
+    "date": "2023-09-07",
+    "author": "Michael Curtiz",
+    "rating": 5,
+    "image":"https://m.media-amazon.com/images/I/71OusuDiYGL.jpg"
+  },
+  {
+    "id": 11,
+    "title": "The African Queen (1951)",
+    "content": "Las tomas de los ríos y la selva son impresionantes. Realmente se muestra la belleza de la naturaleza africana, lo cual es genial y se suma a lo que los actores logran en pantalla. \nEs una película con muy buenas actuaciones de parte de Humphrey Bogart (acá gana el Oscar a mejor actor) y Katharine Hepburn. Ofrece momentos emocionantes, pero a veces la trama se vuelve predecible y la representación de África refleja estereotipos anticuados. \nDetalle no menor que descubrí leyendo sobre la película: fue una de las primeras películas de Hollywood en filmar en locaciones africanas.",
+    "date": "2023-09-08",
+    "author": "John Huston",
+    "rating": 3,
+    "image":"https://cdn.posteritati.com/posters/000/000/057/693/the-african-queen-md-web.jpg"
+  },
+  {
+    "id": 12,
+    "title": "Léon: The Professional (1994)",
+    "content": "La conexión emocional entre Léon y Mathilda, que sugiere la película, se siente incómoda y poco apropiada por la diferencia de edad significativa. \nAdemás, la película sigue una trama predecible que carece de originalidad y sorpresa. \nCabe destacar que la actuación de Gary Oldman es una absoluta maravilla que eleva la película.",
+    "date": "2023-09-09",
+    "author": "Luc Besson",
+    "rating": 3,
+    "image":"https://m.media-amazon.com/images/I/61Q3GS1R76L._AC_UF894,1000_QL80_.jpg"
+  },
+  {
+    "id": 13,
+    "title": "Before Sunset (2004)",
+    "content": "Desde que empezó la película me imaginé que él sí había ido al reencuentro y ella no. Fue lo que pasó. \nLa frustración y el lamento de la mujer pueden interpretarse como una manifestación de las expectativas no cumplidas y el conflicto emocional que siente al encontrarse con él nuevamente. \nPasaron 9 años de que lo tendría que haber visto, pero ella nunca llegó, así que la vida sigue. Él tuvo un hijo, y se casó. \nAún así capta la magia y la complejidad de los encuentros fugaces y las conexiones emocionales. Es muy buena película. \nMe llevo un poco de desilusión porque esperaba algo de resolución, ya que la película anterior también terminó con un final abierto.",
+    "date": "2023-09-10",
+    "author": "Richard Linklater",
+    "rating": 3.5,
+    "image":"https://image.tmdb.org/t/p/original/4sW5XH9ZfYXpvFzev00S1IGAEbg.jpg"
+  },
+  {
+    "id": 14,
+    "title": "Before Midnight (2013)",
+    "content": "Sigue la misma premisa de sus predecesoras con una larga conversación entre los protagonistas, pero ahora con una carga emocional y tensión que antes no habíamos visto. \nAborda temas relacionados con el amor, la comunicación y la vida en pareja. Celine y Jesse se enfrentan a dilemas que son relevantes para cualquier persona en una relación duradera, lo que hace que la película sea tremendamente identificable. \nLa ambientación en Grecia es hermosa, y las actuaciones siguen siendo impecables. Se nota la gran química entre ambos actores. \nDespués de cerrar con esta película, tengo que ir a subirle el puntaje a las dos anteriores. Buena trilogía.",
+    "date": "2023-09-10",
+    "author": "Richard Linklater",
+    "rating": 4,
+    "image":"https://m.media-amazon.com/images/M/MV5BMjA5NzgxODE2NF5BMl5BanBnXkFtZTcwNTI1NTI0OQ@@._V1_.jpg"
+  },
+  {
+    "id": 15,
+    "title": "GoodFellas (1990)",
+    "content": "Las actuaciones son simplemente excepcionales; Robert De Niro, Ray Liotta y Joe Pesci entregan interpretaciones maravillosas. Pesci, en particular, brilla con su papel despiadado y carismático. \nAlgo a destacar también es la banda sonora con clásicos que encajan perfectamente con la atmósfera de la película. \nCon la dirección de Martin Scorsese, el resultado es una obra maestra.\n\n(Es imposible escuchar a Ray Liotta y no pensar en Tommy Vercetti)",
+    "date": "2023-09-11",
+    "author": "Martin Scorsese",
+    "rating": 5,
+    "image": "https://i.pinimg.com/564x/b8/e7/60/b8e760c3cedffdf72efb7bef4f6ffe4e.jpg"
+  },  
+  {
+      "id": 16,
+      "title": "The Silence of the Lambs (1991)",
+      "content": "La trama es una intrincada danza entre el bien y el mal, desarrollada de manera cautivadora. \nLas actuaciones son excepcionales y muy inmersivas. Jodie Foster, encarnando a una convincente y vulnerable Clarice Starling, y Anthony Hopkins (mi actor favorito, dicho sea de paso), en el papel del carismático y aterrador Hannibal Lecter. La química entre ambos personajes es fascinante de presenciar. \nLa dirección de Jonathan Demme contribuye a la inmersión en la película, ya que la elección de ángulos de cámara y la música crean una atmósfera inquietante que se adhiere a la mente del espectador. \nLa película en sí es un estudio profundo de la obsesión, el poder y la dualidad humana, explorando temas psicológicos de manera brillante. \nEsta película es la muestra de que el cine puede ser una experiencia poderosa y provocadora. Es un recordatorio de que las películas pueden ser mucho más que entretenimiento, pueden ser una exploración profunda de la condición humana, y eso es lo que la hace eternamente impactante para mí. \nUn gran logro cinematográfico. Sigue siendo impactante y perturbadora décadas después de su estreno. \n\n(Era momento de volver a verla y escribir una reseña. Una de mis películas favoritas por lejos.)",
+      "date": "2023-09-14",
+      "author": "Jonathan Demme",
+      "rating": 5,
+      "image": "https://i.pinimg.com/originals/f6/f8/8d/f6f88d0523598e6be46d1c9dd35e3e85.jpg"
+    },
+    
+    {
+      "id": 17,
+      "title": "Eternal Sunshine of the Spotless Mind (2004)",
+      "content": "La relación de Joel y Clementine muestra que el olvido no es la respuesta a los problemas emocionales, sino que enfrentar y aceptar los momentos difíciles de la vida es lo que nos hace crecer y evolucionar como seres humanos. \nLa narrativa fragmentada y no lineal de la película nos lleva a explorar la complejidad de las relaciones humanas y cómo los recuerdos pueden ser tanto una bendición como una carga. \nLa cinematografía y la música contribuyen a crear una atmósfera melancólica que refuerza este mensaje profundo. \nLa película desafía las convenciones narrativas tradicionales al explorar la psicología de los personajes de una manera única, lo que contribuye a su impacto emocional. \nEterno resplandor de una mente sin recuerdos nos invita a apreciar la belleza de la imperfección en nuestras vidas y a valorar los momentos efímeros de felicidad que compartimos con quienes amamos.",
+      "date": "2023-09-15",
+      "author": "Michel Gondry",
+      "rating": 4.5,
+      "image":"https://m.media-amazon.com/images/M/MV5BMTY4NzcwODg3Nl5BMl5BanBnXkFtZTcwNTEwOTMyMw@@._V1_.jpg"
+    },
+    {
+      "id": 18,
+      "title": "Lost in Translation (2003)",
+      "content": "Los personajes son superficiales y sus conflictos apenas se exploran. La película se centra más en la estética y en mostrar una visión idealizada de Tokio que en construir una trama convincente, la cual además es extremadamente lenta. Se queda corta en su intento de explorar temas profundos y te deja con una sensación de vacío en lugar de satisfacción.",
+      "date": "2023-09-16",
+      "author": "Sofia Coppola",
+      "rating": 2,
+      "image":"https://filmartgallery.com/cdn/shop/files/Lost-In-Translation-Vintage-Movie-Poster-Original-1-Sheet-27x41_52a22d04-7e38-44bf-9b2d-91aa055f1b83.jpg?v=1692421519"
+    },
+    {
+      "id": 19,
+      "title": "The Shawshank Redemption (1994)",
+      "content": "La redención y la capacidad del espíritu humano para superar la adversidad. \nLa actuación de Tim Robbins como Andy Dufresne es excepcional, mostrando una transformación gradual desde la desesperación hasta la esperanza a lo largo de su estancia en Shawshank. Morgan Freeman, en el papel de Red, brinda una narración en off que se convierte en el corazón de la película. \nLa trama es una oda a la perseverancia y la amistad en un entorno desolado. La forma en que Andy planea su fuga es un testimonio de ingenio y determinación, y la relación entre él y Red es una de las más profundas y auténticas del cine. \nDe las mejores películas de la historia.",
+      "date": "2023-09-17",
+      "author": "Frank Darabont",
+      "rating": 5,
+      "image":"https://m.media-amazon.com/images/I/51rXi2SXCXL._AC_UF894,1000_QL80_.jpg"
+    },
+    {
+      "id": 20,
+      "title": "One Flew Over the Cuckoo’s Nest (1975)",
+      "content": "La lucha por la libertad y la individualidad en un mundo opresivo. \nJack Nicholson en el papel de Randle P. McMurphy, un hombre encarcelado que simula locura para ser transferido a un hospital psiquiátrico. \nLa película tiene un muy buen guión y un muy buen elenco, con Louise Fletcher como la enfermera Ratched, cuya autoridad despiadada es un contrapunto perfecto al espíritu rebelde de McMurphy. \nSi bien la película simplifica y estigmatiza la salud mental al retratar el hospital psiquiátrico como un lugar aterrador y a los pacientes como caricaturas extremas, sigue siendo una película destacada por su exploración de la lucha contra la opresión, con la memorable interpretación de Jack Nicholson. \nLa cinematografía y la música también son destacables, contribuyendo a la atmósfera claustrofóbica y emocionalmente intensa de la película.",
+      "date": "2023-09-18",
+      "author": "Miloš Forman",
+      "rating": 4.5,
+      "image":"https://www.originalfilmart.com/cdn/shop/products/one_flew_over_the_cuckoos_nest_1975_australian_original_film_art_f_1200x.jpg?v=1584529806"
+    },
+    {
+      "id": 21,
+      "title": "Cake (2014)",
+      "content": "Un desastroso intento de drama que cae en clichés y estereotipos. La trama es tediosa y predecible, sin ofrecer nada nuevo o emocionante. \nJennifer Aniston interpreta a un personaje con el cual es difícil de conectar, lo que hace que la película sea aún más frustrante. \nLos momentos supuestamente emotivos carecen de autenticidad (la vi en todo momento con poker face). \nEs una película que desperdicia el talento de su elenco y deja al espectador preguntándose por qué perdió tiempo viéndola.",
+      "date": "2023-09-18",
+      "author": "Daniel Barnz",
+      "rating": 1,
+      "image":"https://m.media-amazon.com/images/M/MV5BMmE2ZTQ5NTUtMzM2NS00YTIxLWEyMDQtMjBiMGNmODgwN2U5XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg"
+    },
+    {
+      "id": 22,
+      "title": "Donnie Brasco (1997)",
+      "content": "La dualidad humana en el abismo de la lealtad y la traición. \nLa relación de los personajes de Al Pacino y de Johnny Depp es fundamental para la trama, pero podría haberse profundizado más en otros aspectos de la vida de Donnie como agente encubierto y en la dinámica general de la mafia. \nSiento que pretende ser una representación realista de la mafia, pero idealiza a los personajes criminales y no muestra completamente las consecuencias devastadoras de sus acciones. \nTambién es importante recordar que, al ser una película basada en hechos reales, tiene sus limitaciones en cuanto a la representación de la realidad. \nEn sí, es una película sólida. Las actuaciones están muy bien, la trama es buena (aunque me hubiese gustado más profundización), y el soundtrack me pareció acorde. \nForget about it",
+      "date": "2023-09-19",
+      "author": "Mike Newell",
+      "rating": 3.5,
+      "image":"https://i.ebayimg.com/images/g/oH8AAOSwm9dgiqmM/s-l1200.jpg"
+    },
+    {
+      "id": 23,
+      "title": "Hannibal (2001)",
+      "content": "Un desastroso intento de drama que cae en clichés y estereotipos. La trama es tediosa y predecible, sin ofrecer nada nuevo o emocionante. \nJennifer Aniston interpreta a un personaje con el cual es difícil de conectar, lo que hace que la película sea aún más frustrante. \nLos momentos supuestamente emotivos carecen de autenticidad (la vi en todo momento con poker face). \nEs una película que desperdicia el talento de su elenco y deja al espectador preguntándose por qué perdió tiempo viéndola.",
+      "date": "2023-09-20",
+      "author": "Ridley Scott",
+      "rating": 3.5,
+      "image":"https://m.media-amazon.com/images/M/MV5BZDMxMjhiZmItNWMxMC00NzYyLWJiOTYtNGYwOTAyYjU5OWY4XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg"
+    },
+    {
+      "id": 24,
+      "title": "Red Dragon (2002)",
+      "content": "Explorando las sombras ajenas, hallamos las nuestras. \nUno de los aspectos más intrigantes de la película es la relación entre Graham (Edward Norton) y Hannibal Lecter (Anthony Hopkins). Esta dinámica plantea preguntas profundas sobre la empatía y la comprensión de la maldad humana. \nLa película se convierte en un juego de ajedrez psicológico, donde el espectador se ve inmerso en una lucha intelectual entre dos mentes brillantes, pero en lados opuestos de la ley. \nAún así, la intensidad de la película no es constante y la trama por momentos es bastante predecible.",
+      "date": "2023-09-22",
+      "author": "Brett Ratner",
+      "rating": 3,
+      "image":"https://m.media-amazon.com/images/M/MV5BOTAwZDI1OTctN2Q5YS00OGNiLWIyMmUtYWM4ZGFjYWYyYzJjXkEyXkFqcGdeQXVyMTUzMDUzNTI3._V1_.jpg"
+    },
+    {
+      "id": 25,
+      "title": "The Shinning (1980)",
+      "content": "La soledad refleja el laberinto de nuestra propia mente. \nUno de los aspectos más notables de \"The Shining\" es su profunda exploración de la locura y el aislamiento. \nA lo largo de la película, Jack Torrance, interpretado por Jack Nicholson, se convierte en un estudio de caso impactante de deterioro mental, siendo arrastrado hacia la oscuridad por la soledad y el estrés extremo. \nLo que hace que esta representación sea aún más impresionante es la habilidad de Nicholson para transmitir la transformación gradual de su personaje de una manera inquietante y convincente. Desde las primeras señales de preocupación y tensión en su rostro hasta la completa y perturbadora locura que exhibe más adelante, cada expresión facial de Nicholson es una obra maestra en sí misma. Sus ojos enloquecidos y su sonrisa maníaca son elementos que contribuyen de manera significativa a la atmósfera de horror y desasosiego que impregna toda la película. \nSi bien el ritmo de la trama me pareció muy lento, es innegable que estamos ante una obra maestra del cine. \nLa cinematografía es impecable, y cada escena está meticulosamente compuesta, lo que añade una capa adicional de tensión a la historia, además del soundtrack, que acompaña de manera espléndida. \nExcelente laburo de Kubrick.",
+      "date": "2023-10-01",
+      "author": "Stanley Kubrick",
+      "rating": 5,
+      "image":"https://m.media-amazon.com/images/M/MV5BZWFlYmY2MGEtZjVkYS00YzU4LTg0YjQtYzY1ZGE3NTA5NGQxXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "id": 26,
+      "title": "A Quiet Place (2018)",
+      "content": "En el silencio encontramos la verdad de nuestra vulnerabilidad. \nCon su enfoque único en la importancia del silencio y la comunicación no verbal, esta película logra una inmersión total en un mundo aterrador donde cada sonido podría ser mortal. Esta premisa genera una experiencia cinematográfica intensamente inmersiva, ya que los espectadores se sienten completamente absorbidos por la necesidad de permanecer en silencio. \nLa película se basa en gran medida en las expresiones faciales, el lenguaje corporal y la comunicación no verbal debido a que los personajes deben permanecer en silencio. Las actuaciones de todo el elenco, incluyendo a John Krasinski y Emily Blunt, son muy buenas. \nLa cinematografía aprovecha al máximo los espacios silenciosos y oscuros para mantenernos en vilo durante toda la historia. Además, la música minimalista, juega un papel efectivo en la película, que combina perfectamente con la narrativa y se siente como una extensión natural de la tensión en los momentos más críticos.",
+      "date": "2023-10-02",
+      "author": "John Krasinski",
+      "rating": 4,
+      "image":"https://m.media-amazon.com/images/M/MV5BMjI0MDMzNTQ0M15BMl5BanBnXkFtZTgwMTM5NzM3NDM@._V1_.jpg"
+    },
+    {
+      "id": 27,
+      "title": "The Exorcist (1973)",
+      "content": "En la batalla entre la fe y el horror, se forja nuestra humanidad. \nThe Exorcist es simplemente una joya del cine que se mete de lleno en una batalla épica entre el bien y el mal. \nLa película nos presenta un duelo aterrador entre la joven poseída, Regan MacNeil, y el sacerdote, el padre Damien Karras. Pero no es solo una película de terror; va más allá al explorar temas profundos como la fe, la duda y la naturaleza del mal en un mundo que a veces parece regirse por la lógica. \nLas actuaciones en \"The Exorcist\" son asombrosas en todos los sentidos. Linda Blair, como Regan, logra transmitir vulnerabilidad y terror de manera impresionante. Jason Miller como el padre Karras le añade una profundidad emocional que conmueve. Y, por supuesto, Max von Sydow como el experimentado exorcista, el padre Merrin, deja una huella imborrable en la pantalla. \nLa dirección de William Friedkin es sencillamente brillante. Cada escena está cuidadosamente elaborada para mantenernos enganchados, y su habilidad para crear una atmósfera de terror es innegable. La película utiliza efectos prácticos, maquillaje y efectos de sonido de manera efectiva para intensificar el horror, y muchos de los momentos icónicos se han convertido en hitos del género. \nHay que mencionar también la valentía de la película al mostrarnos de manera gráfica la posesión y el exorcismo, desafiando los límites de lo que se consideraba aceptable en ese momento. Esta audacia contribuyó a su notoriedad y la convirtió en una referencia indiscutible en el género del cine de terror. \nEs una obra maestra del cine y posiblemente una de las películas más influyentes en su género.",
+      "date": "2023-10-03",
+      "author": "William Friedkin",
+      "rating": 5,
+      "image":"https://m.media-amazon.com/images/M/MV5BYWFlZGY2NDktY2ZjOS00ZWNkLTg0ZDAtZDY4MTM1ODU4ZjljXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "id": 28,
+      "title": "It Follows (2014)",
+      "content": "No voy a explayarme mucho. A mi parecer fue una experiencia poco satisfactoria. \nEntiendo la probable intención del director de la ambigüedad y la interpretación abierta a los espectadores, pero para mí son demasiadas incógnitas sin resolver. \nNunca se llega a saber qué es el ente que los persigue. \n¿Por qué la maldición está relacionada con el sexo? ¿El perseguidor es una especie de succubus o incubus? \n¿Por qué el perseguidor sólo camina? Aunque esto genera un poco de tensión, no hay que negarlo. \n¿Por qué al pasarle la maldición a Greg el ente deja de aparecer por tres o cuatro días, cuando en los otros casos se recorre toda la ciudad en un par de horas? \n¿Qué hizo Jay al nadar hacia tres tipos en una lancha? \nA mi gusto, demasiadas incoherencias e incógnitas sin resolver. \nFue una pérdida de tiempo.",
+      "date": "2023-10-04",
+      "author": "David Robert Mitchell",
+      "rating": 1.5,
+      "image":"https://m.media-amazon.com/images/M/MV5BMmU0MjBlYzYtZWY0MC00MjliLWI3ZmUtMzhlZDVjMWVmYWY4XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg"
+    },
+    {
+      "id": 29,
+      "title": "Psycho (1960)",
+      "content": "La esencia humana, un enigma velado en las sombras de nuestra mente. \nAnthony Perkins hace un laburo espectacular en el papel de Norman Bates, logrando que sea uno de los villanos más memorables de todos los tiempos. Este personaje es el núcleo de la película. Su retrato de un hombre atormentado y peligroso pero a la vez vulnerable es una actuación que se destaca. La relación entre Norman y su madre añade una capa adicional de inquietud y profundidad a la historia. \nLa dirección de Hitchcock es para hacerle un monumento. Cada toma, cada ángulo, cada detalle suma para armar una atmósfera de suspenso. La famosa escena de la ducha es uno de los momentos más icónicos en la historia del cine. Hitchcock utiliza la cinematografía y la música de manera magistral para crear una secuencia aterradora que ha influido en generaciones de cineastas. \nLa película aborda temas de la psicología humana, la identidad y la dualidad de una manera impactante. La exploración de la locura y la obsesión agrega capas de complejidad a la narrativa y hace que Psycho trascienda el género de terror convencional. \nUna experiencia imperdible.",
+      "date": "2023-10-05",
+      "author": "Alfred Hitchcock",
+      "rating": 5,
+      "image":"https://m.media-amazon.com/images/M/MV5BNTQwNDM1YzItNDAxZC00NWY2LTk0M2UtNDIwNWI5OGUyNWUxXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg"
+    },
+    {
+      "id": 30,
+      "title": "Midsommar (2019)",
+      "content": "Tradiciones que con su luz desvelan los rincones más oscuros. \nEs una película que realmente se destaca por su enfoque único. Toda la historia se desarrolla bajo el sol brillante de Suecia, durante el solsticio de verano, lo cual es bastante inusual para una película de terror. \nMe encanta como se utiliza la belleza y la serenidad del entorno para contrastar con los eventos perturbadores que se desarrollan. \nLa película está llena de meticulosos detalles sobre la comunidad y sus tradiciones paganas, lo que agrega profundidad a la historia y te sumerge en este mundo extraño. \nAdemás, aborda temas profundos como la pérdida, la dependencia emocional y la sensación de ser un extraño en un lugar desconocido. \nSin embargo, hay que tener en cuenta que no es una película de acción constante ya que tiene un ritmo pausado y es más larga de lo que quizás se espera. \nMidsommar es una película que se sale de lo común y ofrece una experiencia cinematográfica única. Es ideal para quien esté dispuesto a explorar terrenos menos convencionales en el género y le gusten las narrativas profundas.",
+      "date": "2023-10-06",
+      "author": "Ari Aster",
+      "rating": 4,
+      "image":"https://m.media-amazon.com/images/M/MV5BMzQxNzQzOTQwM15BMl5BanBnXkFtZTgwMDQ2NTcwODM@._V1_.jpg"
+    },
+    {
+      "id": 31,
+      "title": "The Texas Chain Saw Massacre (1974)",
+      "content": "En el silencio encontramos la verdad de nuestra vulnerabilidad. \nCon su enfoque único en la importancia del silencio y la comunicación no verbal, esta película logra una inmersión total en un mundo aterrador donde cada sonido podría ser mortal. Esta premisa genera una experiencia cinematográfica intensamente inmersiva, ya que los espectadores se sienten completamente absorbidos por la necesidad de permanecer en silencio. \nLa película se basa en gran medida en las expresiones faciales, el lenguaje corporal y la comunicación no verbal debido a que los personajes deben permanecer en silencio. Las actuaciones de todo el elenco, incluyendo a John Krasinski y Emily Blunt, son muy buenas. \nLa cinematografía aprovecha al máximo los espacios silenciosos y oscuros para mantenernos en vilo durante toda la historia. Además, la música minimalista, juega un papel efectivo en la película, que combina perfectamente con la narrativa y se siente como una extensión natural de la tensión en los momentos más críticos.",
+      "date": "2023-10-07",
+      "author": "Tobe Hooper",
+      "rating": 4,
+      "image":"https://m.media-amazon.com/images/M/MV5BZDI3OWE0ZWMtNGJjOS00N2E4LWFiOTAtZjQ4OTNiNzIwN2NkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_FMjpg_UX1000_.jpg"
+    }
+    ,
+    {
+      "id": 32,
+      "title": "Talk to Me (2022)",
+      "content": "La dirección de los gemelos Philippou está bastante bien. Logran crear una atmósfera tensa y perturbadora. \nAunque la historia puede sentirse sin rumbo en partes y la resolución del conflicto principal no es perfecta, la película logra mantener la tensión. Hay que destacar la actuación de Sophie Wilde y la trama sobre depresión y pérdida. La interconexión entre el dolor y el horror. \nEn sí es un sólido debut para los hermanos Philippou. Pueden venir cosas buenas.",
+      "date": "2023-10-08",
+      "author": "Michael Philippou, Danny Philippou",
+      "rating": 3,
+      "image":"https://m.media-amazon.com/images/M/MV5BMmY5ZGE4NmUtZWI4OS00ZWJmLWFjMzgtOWUyZjI4NDg3Y2E5XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg"
+    }
+    ,
+    {
+      "id": 33,
+      "title": "Hellraiser (1987)",
+      "content": "Explorando los deseos más oscuros y los límites del sufrimiento. \n\nLa película se adentra en el oscuro mundo del sadomasoquismo y los deseos más siniestros de una manera que despierta una profunda inquietud en el espectador. \nA través de la perturbadora filosofía de los Cenobitas, cuyo diseño es espectacular, la película nos sumerge en un reino de placer a través del sufrimiento. \nLa Configuración del Lamento, esa rara caja que desencadena los horrores, se convierte en un poderoso símbolo de la obsesión y el deseo humano. Cada vez que aparece, nos recuerda la aterradora fascinación de los personajes con lo desconocido. \nEn términos de efectos visuales y gore, Hellraiser impresiona, logrando un alto nivel de realismo en un género donde esto es crucial. Cada detalle, cada momento de horror, está cuidadosamente diseñado para sumergir al espectador en una experiencia visceral y perturbadora.",
+      "date": "2023-10-09",
+      "author": "Clive Barker",
+      "rating": 4,
+      "image":"https://m.media-amazon.com/images/M/MV5BOGRlZTdhOGYtODc5NS00YmJkLTkzN2UtZDMyYmRhZWM1NTQwXkEyXkFqcGdeQXVyMzU4Nzk4MDI@._V1_FMjpg_UX1000_.jpg"
+    }
+    ,
+    {
+      "id": 34,
+      "title": "Hereditary (2018)",
+      "content": "Entre las sombras familiares: La esencia de ‘Hereditary’. \n\nEs una película con una excepcional habilidad para combinar una narrativa compleja y turbia, con una muy buena cinematografía. \nCada escena está cuidadosamente compuesta y llena de detalles para añadir detalle a la historia, como por ejemplo, las miniaturas de Annie, que sirven como metáfora visual para el control y la predestinación en la vida de la familia. Son réplicas precisas de situaciones y lugares. \nSe juega con la percepción de la realidad, lo cual hace que la trama sea tan perturbadora como desconcertante. Entrelaza elementos sobrenaturales con la psicología humana de una manera que te hace cuestionar lo que es real y lo que es producto de la locura. \nSin dudas un 5/5. Superó todas mis expectativas.",
+      "date": "2023-10-10",
+      "author": "Ari Aster",
+      "rating": 5,
+      "image":"https://m.media-amazon.com/images/M/MV5BODg1YWRhY2QtOWJiMS00Y2NhLTgzZGUtZDJjZGE2MjRlM2Y4XkEyXkFqcGdeQXVyNTAzMTY4MDA@._V1_.jpg"
+    }
+    ,
+    {
+      "id": 35,
+      "title": "Night of the Living Dead (1968)",
+      "content": "La noche en que los muertos caminaron y el cine cambió para siempre.\n\nEl enfoque realista y la toma de decisiones de los personajes agregan autenticidad a la película. Los personajes se sienten genuinos y las situaciones son creíbles, lo que contribuye al horror de la situación.\nLa actuación de Duane Jones, el protagonista afroamericano, rompió barreras en la representación racial en el cine de la década de 1960.\nAdemás, es importante destacar que George A. Romero realizó esta película con un presupuesto limitado y un equipo pequeño, lo que no solo fue un logro notable en sí mismo, sino que también influyó en la forma en que se hacían y financiaban las películas en el futuro.\nLa capacidad de Romero para crear una película efectiva con recursos limitados demostró que la creatividad y la innovación podían superar las restricciones presupuestarias, allanando el camino para una nueva generación de cineastas independientes y la evolución del cine de género.\nEn este sentido, Night of the Living Dead se convirtió en un faro para la producción cinematográfica independiente.\nPelícula que cambió el juego en su género, estableció las bases para el subgénero de zombies y dejó una marca indeleble en la cultura popular y el cine de terror.",
+      "date": "2023-10-11",
+      "author": "George A. Romero",
+      "rating": 4,
+      "image":"https://m.media-amazon.com/images/M/MV5BMTQ2MjAxODUyNl5BMl5BanBnXkFtZTgwOTExMzUzMDE@._V1_.jpg"
+    }
+    ,
+    {
+      "id": 36,
+      "title": "Us (2019)",
+      "content": "La dualidad en el reflejo de la oscuridad.\n\nLa trama sigue a una familia que se enfrenta a su propia imagen, o más bien, a sus doppelgängers siniestros, en un escalofriante enfrentamiento que desafía la lógica y la realidad.\nLas interpretaciones, especialmente la de Lupita Nyong'o en un doble papel, son excepcionales.\nEl enfoque en la dualidad y la reflexión sobre la oscuridad interior añaden profundidad a la narrativa, haciendo que sea más que una simple película de terror.\nPeele utiliza el género de terror como una herramienta para la crítica social, lo que es una marca distintiva de su estilo. La película explora temas relacionados con la desigualdad, la dualidad de la sociedad y la existencia de un \"otro\" que a menudo es marginado o relegado a las sombras. La película plantea preguntas sobre quiénes somos como individuos y cómo nos relacionamos con aquellos que consideramos diferentes.\nAunque la película puede volverse un tanto compleja y abstracta en su tercer acto, esto no disminuye su atractivo general. Us es un testimonio de la capacidad de Peele para crear terror y suspense con una narrativa rica y significativa.\nExcelente descubrimiento, Jordan Peele.",
+      "date": "2023-10-12",
+      "author": "Jordan Peele",
+      "rating": 4,
+      "image":"https://m.media-amazon.com/images/M/MV5BZTliNWJhM2YtNDc1MC00YTk1LWE2MGYtZmE4M2Y5ODdlNzQzXkEyXkFqcGdeQXVyMzY0MTE3NzU@._V1_.jpg"
+    },
+    {
+      "id": 37,
+      "title": "Carrie (1976)",
+      "content": "El abismo de la alienación y la furia interior.\n\nLa trama gira en torno a Carrie White, una joven interpretada por Sissy Spacek, quien afronta la crueldad de sus compañeros de clase en un instituto. A medida que su poder telequinético se desarrolla, la tensión y la alienación de Carrie aumentan, lo que desencadena un final explosivo que es impactante y sobre todo memorable.\nUno de los puntos fuertes de la película es su capacidad para explorar las complejidades del acoso escolar y la marginación social. El director Brian De Palma y el guionista Lawrence D. Cohen logran que el espectador empatice con Carrie, sintiendo su angustia y aislamiento. La película plantea preguntas sobre la crueldad de la juventud y las consecuencias de tal comportamiento.\nLa dirección de Brian De Palma es excepcional, con su uso de la cinematografía y la música para construir una atmósfera de creciente inquietud. La famosa secuencia del baile y el desenlace en la promoción son ejemplos de su habilidad para crear momentos visuales memorables.\nCarrie también es una reflexión sobre los desafíos de la adolescencia y las consecuencias de la opresión. La película es una crónica aterradora de lo que puede suceder cuando se empuja a alguien demasiado lejos.\nPelícula relevante en la actualidad a pesar de sus más de cuatro décadas.",
+      "date": "2023-10-13",
+      "author": "Brian De Palma",
+      "rating": 4.5,
+      "image":"https://m.media-amazon.com/images/M/MV5BMTlhNmVkZGUtNjdjOC00YWY3LTljZWQtMTY1YWFhNGYwNDQwXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "id": 38,
+      "title": "Get Out (2017)",
+      "content": "La pesadilla que se oculta en la normalidad.\n\nLa historia sigue a Chris Washington, interpretado de manera sobresaliente por Daniel Kaluuya, un joven afroamericano que visita la mansión de la familia de su novia blanca, Rose Armitage (Allison Williams). A medida que Chris se adentra en este entorno aparentemente perfecto, comienza a notar señales perturbadoras y extrañas actitudes por parte de los empleados y amigos de la familia.\nGet Out destaca por su aguda crítica social. Jordan Peele utiliza el género del terror para explorar temas profundos, como el racismo, la apropiación cultural y la hipocresía liberal, desafiando así las expectativas del público y desenmascarando las tensiones subyacentes en la sociedad.\nEl elenco en su totalidad realiza actuaciones notables, con Kaluuya transmitiendo la angustia y el desasosiego de su personaje de manera magistral.\nAdemás, la dirección de Peele es impecable, con una mezcla de horror, comedia y suspenso que mantiene al espectador enganchado hasta el final.\nPeele construye un mundo en el que el miedo se origina en las relaciones humanas y la discriminación sistémica.\nEs una película que trasciende los límites del género para convertirse en un comentario social profundo y provocador, una obra maestra moderna que atrapa al espectador desde el primer minuto y lo sumerge en una trama llena de tensión, misterio y reflexiones sobre las complejidades de la sociedad contemporánea.\n\nSin darme cuenta, vi otra película de Jordan Peele. Quién diría que el muchacho de los sketches de \"Key y Peele\" haría tan buenas películas como director de cine.",
+      "date": "2023-10-14",
+      "author": "Jordan Peele",
+      "rating": 5,
+      "image":"https://m.media-amazon.com/images/M/MV5BMTkxMDA0NzIyMV5BMl5BanBnXkFtZTgwMDgwMzc0MTI@._V1_.jpg"
+    },
+    {
+      "id": 39,
+      "title": "Alien (1979)",
+      "content": "En el vasto y aterrador abismo del espacio.\n\nRidley Scott nos lleva a un viaje inolvidable y claustrofóbico con su obra maestra del cine.\nLa historia sigue a la tripulación de una nave espacial, que responde a una misteriosa señal S.O.S en un remoto planeta. Al aterrizar, descubren una nave alienígena abandonada y una serie de huevos que liberan una criatura mortal que se adhiere a la cara de uno de los tripulantes. A partir de este punto, la tensión y el miedo aumentan constantemente a medida que la tripulación lucha por sobrevivir contra el depredador más temible que el espacio jamás haya conocido.\nLo que hace que Alien sea excepcional es su habilidad para combinar elementos de ciencia ficción y terror de tan buena manera. La visión oscura y sombría del director crea una atmósfera opresiva, lo que da una sensación de inminente peligro que se extiende a lo largo de toda la película. La cinematografía, el diseño de producción y la música se acoplan para crear una experiencia visual y auditiva muy inmersiva.\nEl xenomorfo es una pesadilla convertida en ícono del género. La tensión se construye con maestría a medida que la criatura evoluciona y se vuelve cada vez más aterradora.\nObra maestra. No importa cuántas veces la hayas visto, sigue siendo una experiencia emocionante y aterradora.",
+      "date": "2023-10-15",
+      "author": "Ridley Scott",
+      "rating": 5,
+      "image":"https://m.media-amazon.com/images/M/MV5BOGQzZTBjMjQtOTVmMS00NGE5LWEyYmMtOGQ1ZGZjNmRkYjFhXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "id": 40,
+      "title": "Saw X (2023)",
+      "content": "Tras una serie de altibajos y reinicios, llega Saw X, una entrega que sorprende al público al regresar a sus raíces sanguinarias y claustrofóbicas, al mismo tiempo que evita las complicaciones innecesarias. La historia de la película no pretende reinventar la rueda, pero tampoco lo necesita. La película se ubica entre la primera y la segunda entrega de la saga, y se enfoca en el personaje icónico, John Kramer, el titiritero detrás de los mortales juegos que han caracterizado la serie. John viaja a México en busca de un tratamiento experimental para su cáncer. Atraído por la promesa de curación, se encuentra atrapado en un nuevo juego mortal que involucra a médicos corruptos y dilemas éticos retorcidos. Lo que hace que sea una experiencia intrigante es su decisión de no perderse en trucos narrativos complejos. En cambio, se adhiere a la fórmula clásica de la franquicia, ofreciendo una serie de trampas sádicas y giros predecibles, pero no por eso menos entretenidos. La película abraza su propia previsibilidad y crea una sensación de familiaridad que puede resultar sorprendentemente satisfactoria para los fanáticos de la saga. Tobin Bell vuelve a brillar en su papel de John Kramer, y su presencia se roba la atención en cada escena. La película también incluye un elenco mayormente latinoamericano, lo que agrega un toque único a la franquicia y amplía su alcance internacional. A pesar de su enfoque en la fórmula clásica, Saw X no es solo una repetición de lo que hemos visto antes. La película incluye un equilibrio adecuado de fan service para satisfacer a los seguidores más leales de la serie, mientras que mantiene su brutalidad y violencia características. Aunque la trama puede resultar predecible en ciertos momentos, la película logra mantener a la audiencia intrigada y entretenida, manteniendo la esencia de Saw.",
+      "date": "2023-10-16",
+      "author": "Kevin Greutert",
+      "rating": 3.5,
+      "image":"https://m.media-amazon.com/images/M/MV5BMmJhYjBkMzgtZGIwMC00YTAzLWE4NTQtYzVkNDVmYjIzODI0XkEyXkFqcGdeQXVyODQxMTI4MjM@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "id": 41,
+      "title": "The Fly (1986)",
+      "content": "La versión de 1986 de \"The Fly\" no es simplemente una remake del clásico de 1958; es una transformación audaz y visceral que se ha convertido en una obra de culto. Esta película de David Cronenberg es un viaje oscuro y perturbador a través de la decadencia y la pérdida, que combina elementos de ciencia ficción y terror de manera excepcional. La historia sigue a Seth Brundle, interpretado con maestría por Jeff Goldblum, un científico que ha desarrollado una máquina de teletransportación. Sin embargo, un accidente durante una prueba de teletransportación cambia el rumbo de su vida. Sus genes se mezclan con los de una mosca en un experimento fallido que desencadena una transformación grotesca y aterradora. La película no se contenta en ser una simple historia de terror; en su lugar, se sumerge en la experiencia emocional de la transformación de Brundle y su relación con la periodista interpretada por Geena Davis, quien se convierte en testigo de su desgarrador deterioro. Lo que distingue a The Fly es su enfoque valiente en el horror corporal y emocional. Los efectos especiales son impactantes y realistas, mostrando la lenta y dolorosa metamorfosis de Brundle en una criatura cada vez más inhumana. La película no escatima en mostrar la brutalidad de este proceso, lo que la convierte en una experiencia intensa y visceral. Película que destaca en el género por su capacidad para perturbar, emocionar y conmover al mismo tiempo.",
+      "date": "2023-10-17",
+      "author": "David Cronenberg",
+      "rating": 4.5,
+      "image":"https://m.media-amazon.com/images/M/MV5BODcxMGMwOGEtMDUxMi00MzE5LTg4YTYtYjk1YjA4MzQxNTNlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg"
+    },
+    {
+      "id": 42,
+      "title": "The Talented Mr. Ripley (1999)",
+      "content": "The Talented Mr. Ripley es una película que nos transporta a un escenario encantador en la Italia de los años 50, donde la trama de intriga y engaño se desenvuelve con habilidad. Aunque la película se destaca por su impresionante estética y actuaciones notables, incluyendo la transformación de Matt Damon como el protagonista Tom Ripley, existen algunas desviaciones de la novela original de Patricia Highsmith que pueden desconcertar. La dirección de Anthony Minghella logra capturar la belleza de la costa italiana y crea una atmósfera envolvente que sumerge al espectador en el mundo de Tom Ripley. El reparto, encabezado por Damon, Jude Law y Gwyneth Paltrow, entrega actuaciones convincentes que dan vida a los personajes y sus relaciones complicadas. Sin embargo, la película sacrifica ciertos matices y complejidades de la novela en favor de mantener un ritmo ágil y accesible para el público. Las modificaciones en la trama, incluyendo un final más esperanzador, pueden decepcionar a quienes aprecian la oscuridad y la ambigüedad moral que caracterizan a la novela. A pesar de las diferencias, creo que la película sigue siendo una película intrigante que ofrece una visión interesante de la psicología retorcida del protagonista. Como amante de la saga de libros de Ripley escritos por Patricia Highsmith, es difícil no comparar la película con la fuente original. A pesar de sus imperfecciones, esta adaptación cinematográfica logra mantener el interés en el mundo de Tom Ripley y puede servir como un atractivo punto de partida para aquellos que aún no han tenido la oportunidad de sumergirse en las novelas.",
+      "date": "2023-11-02",
+      "author": "Anthony Minghella",
+      "rating": 3.5,
+      "image":"https://m.media-amazon.com/images/M/MV5BODA3NDhiZjYtYTk2NS00ZWYwLTljYTQtMjU0NzcyMGEzNTU2L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "id": 43,
+      "title": "Silver Linings Playbook (2012)",
+      "content": "Película que se destaca por su enfoque singular en la salud mental y las complejidades de las relaciones humanas. La película ofrece una experiencia cinematográfica fresca y conmovedora, que combina el drama y la comedia de una manera inusual pero efectiva. La trama gira en torno a Pat Solitano, interpretado por Bradley Cooper, un hombre con trastorno bipolar que busca reconstruir su vida después de una estancia en un hospital psiquiátrico y Jennifer Lawrence, quien deslumbra en su actuación como Tiffany, una joven viuda con problemas emocionales propios. La química entre los dos protagonistas es muy buena y contribuye al atractivo de la película. Silver Linings Playbook aborda temas de salud mental con sensibilidad y autenticidad, ofreciendo una representación respetuosa de las luchas y desafíos que enfrentan las personas con trastornos mentales y sus seres queridos. La película también destaca la importancia de la aceptación, el apoyo y la comunicación en el proceso de recuperación. El guion es inteligente y está lleno de diálogos ingeniosos, logrando equilibrar los momentos emotivos con situaciones cómicas. El elenco en su conjunto, que también incluye a Robert De Niro (!!!) y Jacki Weaver, brinda actuaciones buenas que agregan profundidad y autenticidad a los personajes. Es un testimonio de que, a pesar de los desafíos de la vida, siempre existe la posibilidad de encontrar un lado positivo y seguir adelante.",
+      "date": "2023-11-03",
+      "author": "David O. Russell",
+      "rating": 4,
+      "image":"https://m.media-amazon.com/images/M/MV5BMTM2MTI5NzA3MF5BMl5BanBnXkFtZTcwODExNTc0OA@@._V1_.jpg"
+    },
+    {
+      "id": 44,
+      "title": "Prisoners (2013)",
+      "content": "Thriller oscuro y emocional, con una trama intensa y excelentes actuaciones de su elenco. La historia sigue a dos familias cuyas hijas pequeñas desaparecen misteriosamente durante el Día de Acción de Gracias. Cuando la policía, liderada por el detective Loki (Jake Gyllenhaal), no logra avanzar lo suficientemente rápido, el padre desesperado, interpretados por Hugh Jackman, toma medidas extremas para encontrar a sus hijas. La película aborda temas oscuros y morales, explorando cómo el sufrimiento puede impulsar a las personas a cuestionar sus propias éticas y límites. Las actuaciones son el punto culminante de la película. Hugh Jackman entrega una interpretación apasionada como el padre desesperado, mientras que Jake Gyllenhaal ofrece una actuación intensa y compleja como el detective Loki. El elenco en su conjunto, que también incluye a Viola Davis y Terrence Howard, está a la altura del material emocionalmente denso. Una película con narrativa envolvente y actuaciones estelares, que explora las profundidades de la condición humana en situaciones extremas.",
+      "date": "2023-11-04",
+      "author": "Denis Villeneuve",
+      "rating": 4.5,
+      "image":"https://m.media-amazon.com/images/M/MV5BMTg0NTIzMjQ1NV5BMl5BanBnXkFtZTcwNDc3MzM5OQ@@._V1_.jpg"
+    },
+    {
+      "id": 45,
+      "title": "All Quiet on the Western Front (2022)",
+      "content": "Un logro cinematográfico que nos transporta de manera visceral al corazón de la Primera Guerra Mundial, explorando la crudeza de la experiencia desde la perspectiva de los soldados alemanes. La película, centrada en el joven soldado Paul, interpretado excelentemente por Félix Kammerer, nos sumerge en una odisea desgarradora desde el entusiasmo inicial hasta la brutal realidad de las trincheras. La narrativa meticulosamente desarrollada sigue la evolución de Paul y sus amigos, quienes, inicialmente imbuidos de patriotismo, se encuentran rápidamente sumidos en los horrores inhumanos de la guerra. El título, All Quiet on the Western Front, cobra un nuevo significado a medida que la historia revela la brutal realidad y las condiciones desesperadas que enfrentan los soldados en el frente de batalla. La excelencia técnica de la película se manifiesta en un apartado sonoro y visual de primera clase. La ambientación, las interpretaciones y la cinematografía son notables, sumergiéndonos en la atmósfera claustrofóbica y desoladora de las trincheras. La música y el diseño de producción contribuyen significativamente a la intensidad emocional de la historia, creando una experiencia inmersiva que resuena en vos mucho después de terminar de verla. El elenco, liderado por Félix Kammerer, entrega actuaciones destacadas que transmiten de manera efectiva el sufrimiento, la desesperación y la camaradería entre los soldados. Cada actor aporta autenticidad a sus roles, haciendo que la conexión emocional con los personajes sea evidente. La película va más allá de ser una simple representación bélica; es una crítica histórica y antibelicista clara y poderosa. Muestra la inutilidad y brutalidad de la guerra, al tiempo que resalta la desconexión entre los altos mandos y los soldados que enfrentan la cruda realidad en el frente. Esta mirada profunda a la condición humana en tiempos de guerra deja una impresión duradera. Una obra maestra bélica que destaca tanto por su mensaje anti-guerra como por su impactante representación visual. Es una experiencia cinematográfica que no solo nos sumerge en el pasado, sino que nos desafía a reflexionar sobre el presente y el precio humano de los conflictos armados. Definitivamente, una joya del cine contemporáneo que merece ser reconocida como tal.",
+      "date": "2023-11-05",
+      "author": "Edward Berger",
+      "rating": 5,
+      "image":"https://m.media-amazon.com/images/M/MV5BMzM4ZDJhYjYtZGY5Ny00NTk0LWI4ZTYtNjczZDFiMGI2ZjEzXkEyXkFqcGdeQXVyNjc5NjEzNA@@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "id": 46,
+      "title": "Creep (2014)",
+      "content": "Creep, una experiencia cinematográfica intrigante pero no exenta de altibajos. Se desenvuelve como un thriller de terror psicológico, presenta un enfoque único y una tensión constante. Sin embargo, la inclusión de jumpscares puede resultar, por lo menos para mí, un elemento que resta a la experiencia en lugar de sumar. La historia sigue a Aaron, un camarógrafo contratado para documentar un día en la vida de Josef. La excelente interpretación de Mark Duplass añade mucha complejidad al personaje de Josef, manteniéndote expectante sobre sus verdaderas intenciones. Lo que resta al impacto de la película es la inclusión de tantos jumpscares abruptos que pueden interrumpir la tensión cuidadosamente construida. La técnica del found footage está muy bien lograda, pero la dependencia de jumpscares puede ser percibida como una estrategia fácil en lugar de aprovechar la fortaleza de la narrativa y las interpretaciones.",
+      "date": "2023-11-08",
+      "author": "Patrick Brice",
+      "rating": 2.5,
+      "image":"https://m.media-amazon.com/images/M/MV5BMTY0NTU2ODM5Ml5BMl5BanBnXkFtZTgwMTAwOTA5NTE@._V1_FMjpg_UX1000_.jpg"
+    }
+  ]
+  

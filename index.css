@@ -1,0 +1,101 @@
+*{
+    font-family: 'Roboto', sans-serif;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    background-color: #011524;
+}
+
+.btn-primary{
+    background-color: #062F4F;
+}
+
+.btn-primary:hover{
+    background-color: #B82601;
+}
+
+.navbar-nav {
+    display: flex;
+    justify-content: center;
+    text-align: right;
+}
+
+.nav-link {
+    color: #B82601 !important;
+}
+
+.nav-link:hover {
+    color: white !important;
+}
+
+.navbar-nav .nav-item {
+    margin: 0 10px;
+}
+
+.navbar-toggler {
+    background-color: #011524;
+}
+
+.navbar-toggler:hover {
+    background-color: #B82601;
+}
+
+.custom-navbar {
+    background-color: #062F4F;
+}
+
+.navbar .navbar-brand {
+    margin: 0 auto;
+}
+
+h1 {
+    color: white;
+    font-weight: 400;
+    font-size: 30px;
+}
+
+.custom-footer {
+    background-color: #062F4F;
+}
+
+.custom-footer p {
+    color: #ff3300;
+    text-align: left;
+}
+
+footer {
+    margin-top: auto;
+}
+
+.social-icons{
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+}
+
+.social-icons a{
+    color: #B82601;
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+}
+
+.social-icons i{
+    margin-right: 10px;
+    font-size: 25px;
+    padding: 10px;
+}
+
+.social-icons a:hover{
+    color: white;
+}
+
+/* Centrar los elementos de navegación cuando se muestra el menú desplegable */
+@media (max-width: 768px) {
+    .navbar-nav {
+        text-align: center;
+    }
+}

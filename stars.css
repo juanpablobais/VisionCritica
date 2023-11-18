@@ -1,0 +1,17 @@
+.star-rating {
+    display: flex;
+    align-items: center;
+    justify-content: center; /* Para centrar horizontalmente */
+    margin-top: 10px; /* Ajusta según tu preferencia para el margen superior */
+  }
+  
+  .star-rating i {
+    font-size: 1.2em;
+    margin-right: 2px;
+    color: #f8d419; /* Color de las estrellas llenas */
+  }
+  
+  .star-rating i.far {
+    color: #B82601; /* Color del contorno de las estrellas vacías */
+  }
+  
